@@ -22,3 +22,4 @@ readibility
 tout doit doit se comprendre en une ligne 
 une personne non info peut lire et comprendre
 
+Lors du refactoring commencé par augmenter la coverage du code à 100%
