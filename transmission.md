@@ -1,6 +1,6 @@
 ne jms transmttre sans savoir
 tjrs se mettre au niv de la personne en face
-tjrs avoir plusieur exemples et argument
+tjrs avoir plusieurs exemples et argument
 ne jms forcer les gens
 bienveillance
 
